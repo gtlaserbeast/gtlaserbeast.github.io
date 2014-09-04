@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Man | My Octopress Blog]]></title>
+  <link href="http://yoursite.com/blog/categories/man/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2014-09-04T11:22:44-04:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://yoursite.com/blog/2014/09/04/first-post/"/>
+    <updated>2014-09-04T11:10:28-04:00</updated>
+    <id>http://yoursite.com/blog/2014/09/04/first-post</id>
+    <content type="html"><![CDATA[<h1>Header</h1>
+
+<h2>Header 2</h2>
+
+<h3>Header 3</h3>
+
+<h4>Header 4</h4>
+
+<p>Some stuff</p>
+
+<ul>
+<li>A list</li>
+<li>Another list</li>
+<li>Sup</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
