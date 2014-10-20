@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Going | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Going | The World Wide Will]]></title>
   <link href="http://gtlaserbeast.github.io/blog/categories/going/atom.xml" rel="self"/>
   <link href="http://gtlaserbeast.github.io/"/>
-  <updated>2014-10-20T13:19:21-04:00</updated>
+  <updated>2014-10-20T13:26:24-04:00</updated>
   <id>http://gtlaserbeast.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Will C. Fisher, Jr.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
