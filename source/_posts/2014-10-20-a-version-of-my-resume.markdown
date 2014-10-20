@@ -3,7 +3,24 @@ layout: post
 title: "A Version of my Resumé"
 date: 2014-10-20 13:00:50 -0400
 comments: true
-categories: resume
+categories: 
+- Resume
+- Github
+- Ruby (on Rails)
+- HTML/CSS
+- Haml
+- Javascript
+- Angular
+- Java
+- C++
+- PASCAL
+- Scheme
+- SuperCollider
+- TinTin+/Lua
+- UNIX/Mac/Windows
+- SPSS
+- Controlled experiments
+- Wireframing
 ---
 
 William C. Fisher, Jr.
