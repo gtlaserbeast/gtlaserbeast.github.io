@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mandy | The World Wide Will]]></title>
+  <link href="http://gtlaserbeast.github.io/blog/categories/mandy/atom.xml" rel="self"/>
+  <link href="http://gtlaserbeast.github.io/"/>
+  <updated>2014-10-20T14:11:59-04:00</updated>
+  <id>http://gtlaserbeast.github.io/</id>
+  <author>
+    <name><![CDATA[Will C. Fisher, Jr.]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Love My Mandy]]></title>
+    <link href="http://gtlaserbeast.github.io/blog/2014/10/20/i-love-my-mandy/"/>
+    <updated>2014-10-20T14:11:11-04:00</updated>
+    <id>http://gtlaserbeast.github.io/blog/2014/10/20/i-love-my-mandy</id>
+    <content type="html"><![CDATA[<h3>Mandy is My Favorite</h3>
+
+<p>woooo she is sooo wonderful.</p>
+]]></content>
+  </entry>
+  
+</feed>
