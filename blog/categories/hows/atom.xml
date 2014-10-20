@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: How's | My Octopress Blog]]></title>
-  <link href="http://yoursite.com/blog/categories/hows/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-09-04T11:25:21-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://gtlaserbeast.github.io/blog/categories/hows/atom.xml" rel="self"/>
+  <link href="http://gtlaserbeast.github.io/"/>
+  <updated>2014-10-20T13:19:21-04:00</updated>
+  <id>http://gtlaserbeast.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://yoursite.com/blog/2014/09/04/first-post/"/>
+    <link href="http://gtlaserbeast.github.io/blog/2014/09/04/first-post/"/>
     <updated>2014-09-04T11:10:28-04:00</updated>
-    <id>http://yoursite.com/blog/2014/09/04/first-post</id>
+    <id>http://gtlaserbeast.github.io/blog/2014/09/04/first-post</id>
     <content type="html"><![CDATA[<h1>Header</h1>
 
 <h2>Header 2</h2>

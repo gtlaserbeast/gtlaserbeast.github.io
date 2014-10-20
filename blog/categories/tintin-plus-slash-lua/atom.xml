@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tintin+/lua | My Octopress Blog]]></title>
+  <link href="http://gtlaserbeast.github.io/blog/categories/tintin-plus-slash-lua/atom.xml" rel="self"/>
+  <link href="http://gtlaserbeast.github.io/"/>
+  <updated>2014-10-20T13:19:21-04:00</updated>
+  <id>http://gtlaserbeast.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Version of My Resumé]]></title>
+    <link href="http://gtlaserbeast.github.io/blog/2014/10/20/a-version-of-my-resume/"/>
+    <updated>2014-10-20T13:00:50-04:00</updated>
+    <id>http://gtlaserbeast.github.io/blog/2014/10/20/a-version-of-my-resume</id>
+    <content type="html"><![CDATA[<p>William C. Fisher, Jr.</p>
+
+<p>Email: <a href="willcfisherjr@gmail.com">willcfisherjr@gmail.com</a></p>
+
+<p>Cell: 843.263.3471</p>
+
+<p>Github: <a href="https://github.com/gtlaserbeast">gtlaserbeast</a></p>
+
+<h3>About</h3>
+
+<ul>
+<li>Ruby on Rails engineer seeking developer position that will make use of my numerous skills while helping me to cultivate my ever-growing hunger for knowledge.</li>
+</ul>
+
+
+<h3>Skills</h3>
+
+<ul>
+<li>Github</li>
+<li>Ruby (on Rails)</li>
+<li>HTML/CSS</li>
+<li>Haml</li>
+<li>Javascript</li>
+<li>Angular</li>
+<li>Java</li>
+<li>C++</li>
+<li>PASCAL</li>
+<li>Scheme</li>
+<li>SuperCollider</li>
+<li>TinTin+/Lua</li>
+<li>UNIX/Mac/Windows</li>
+<li>SPSS</li>
+<li>Controlled experiments</li>
+<li>Wireframing</li>
+</ul>
+
+
+<h3>Education</h3>
+
+<h5>The Iron Yard</h5>
+
+<ul>
+<li>Ruby On Rails Engineering October 2014</li>
+</ul>
+
+
+<h5>Georgia Institute of Technology</h5>
+
+<ul>
+<li>Bachelor of Science in Psychology May 2008
+
+<h6>Sample Coursework:</h6>
+
+<p>Sensation &amp; Perception, Experimental Analysis of Behavior, Engineering Psychology, Psychological Statistics, Cognitive Psychology, Research Methods, Differential Equations, Discrete Mathematics, Functional and Object-Oriented Programming, Physics, Aerospace Structures, Russian</p></li>
+</ul>
+
+
+<h3>Work and Volunteer Experience</h3>
+
+<p>Caretaker/Amateur Nurse Aug 2011 - July 2013</p>
+
+<ul>
+<li>Assisted grandmother with the everyday care of Alzheimer’s stricken grandfather.</li>
+</ul>
+
+
+<p>Bartender/Bar-back, Panini’s Cafe Jan 2010 - Sep 2011</p>
+
+<ul>
+<li>Maintain and defend supply line from liquor room to bar.</li>
+<li>Encourage patron participation[drinking/tipping] through the use of meta-rewards such as friendly smiles and variable drink quality.</li>
+</ul>
+
+
+<p>Media Research Observer, Ball State U. Sep 2009 - Dec 2009</p>
+
+<ul>
+<li>Participated in a study funded by ESPN that helped demystify the electronic media consumption behaviors of the Millennial sports fan. Team developed media usage profile essential to the implementation of modern targeted marketing.</li>
+<li>Conducted 12hr observational blocks, each time with a new participant/location</li>
+<li>Maintained an orderly backlog of highly granular behavior observation</li>
+<li>Relayed data and analysis via VPN</li>
+<li>Traveled 100% of the time</li>
+</ul>
+
+
+<p>John Deere Senior Design Project Representative, Georgia Tech Jan 2008 - May 2008</p>
+
+<ul>
+<li>Provided an analysis of available software solutions, including the then-new wiki</li>
+<li>Led group in consulting John Deere in their efforts to construct a design guideline archive.</li>
+<li>Assessed client needs through the use of surveys and phone conferences.</li>
+<li>Compiled data from research on current trends in HCI research, UX design, and cognitive modeling, and prepared recommendations on which collaborative productivity products were most usable and most suitable for John Deere’s needs at the time.</li>
+</ul>
+
+
+<p>Student Goat Trainer, Georgia Tech/Zoo Atlanta Aug 2007 - Dec 2007</p>
+
+<ul>
+<li>Demonstrated commanding control of behavioral modeling concepts and stimulus control techniques learned in Experimental Analysis of Behavior in order to condition petting-zoo goats</li>
+</ul>
+
+
+<p>Undergraduate Research Assistant, Georgia Tech Aug 2004 - Jan 2007</p>
+
+<ul>
+<li>Played key role in conducting experimental research on auditory and multimodal interfaces for the Sonification Lab including augmented reality navigation and stereo modulation using bone-oscillating headphones.</li>
+<li>Worked alongside PhD students to help code sound manipulation software to be used in the research process.</li>
+<li>Received a Summer PURA(President’s Undergrad Research Award) grant in 2005.</li>
+</ul>
+
+
+<p>Music Director/Show Producer, WREK Atlanta 91.1 FM Jan 2003 - May 2007</p>
+
+<ul>
+<li>As Music Director, screened and categorized hundreds of incoming albums for quality and appropriateness while maintaining the integrity of WREK’s avant garde image.</li>
+<li>Produced and presented a weekly specialty show called Psychout, specializing in psychedelic music.</li>
+</ul>
+
+
+<p>GT CEISMC Tutor, Georgia Tech/Herndon Elementary Spring 2005</p>
+
+<ul>
+<li>Designed and executed lesson plans in order to help inner-city 3rd graders hone their multiplication skills.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
