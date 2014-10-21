@@ -4,7 +4,7 @@
   <title><![CDATA[Will C. Fisher, Jr.]]></title>
   <link href="http://gtlaserbeast.github.io/atom.xml" rel="self"/>
   <link href="http://gtlaserbeast.github.io/"/>
-  <updated>2014-10-20T22:14:30-04:00</updated>
+  <updated>2014-10-20T22:38:10-04:00</updated>
   <id>http://gtlaserbeast.github.io/</id>
   <author>
     <name><![CDATA[Will C. Fisher, Jr.]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA['Look at What the Iron Yard Did!']]></title>
+    <link href="http://gtlaserbeast.github.io/blog/2014/10/20/look-at-what-the-iron-yard-did/"/>
+    <updated>2014-10-20T22:26:44-04:00</updated>
+    <id>http://gtlaserbeast.github.io/blog/2014/10/20/look-at-what-the-iron-yard-did</id>
+    <content type="html"><![CDATA[<p>On July 21, 2014, I took a departure from the normal course of my life to engage in an arduous but fulfilling computer science bootcamp. <!--more--> <a href="http://http://theironyard.com/">The Iron Yard</a> is a collection of fast-paced information-dense 21st century computer science learning centers that seek to produce fully capable developers in just a few months. Luckily, my hometown of Beaufort, SC, is not too far from the Mt. Pleasant, SC Iron Yard location. I changed the oil in my car and prepared to drive halfway around the world in an effort to expand my understanding of the way the web is built today.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Version of My Resumé]]></title>
