@@ -33,6 +33,7 @@ Github: [gtlaserbeast](https://github.com/gtlaserbeast)
 
 ###About
 - Ruby on Rails engineer seeking developer position that will make use of my numerous skills while helping me to cultivate my ever-growing hunger for knowledge.
+<!--more-->
 
 ###Skills
 - Github

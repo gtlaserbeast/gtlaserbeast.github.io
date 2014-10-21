@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div>
+<h3>Will Fisher is:</h3>
+
+<ul>
+<li>a Rubyist</li>
+<li>a professional ponderer</li>
+<li>vulnerable to the namshub of Enki.</li>
+</ul>
+
+<p>Take a look at my <a href="http://blooming-river-1772.herokuapp.com">resume</a>!</p>
+
+<p>Have a gander at my collection of <a href="https://github.com/gtlaserbeast">github repos</a>!</p>
+
+<p>Shoot me an <a href="willcfisherjr@gmail.com">email</a>!</p>
+
+<p>Give me a call: (843)263-3471</p>
+</div>
+<aside class="sidebar">
+    {% include_array default_asides %}
+</aside>
