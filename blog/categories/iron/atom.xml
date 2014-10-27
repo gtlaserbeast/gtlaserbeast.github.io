@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Iron | Will C. Fisher, Jr.]]></title>
+  <link href="http://gtlaserbeast.github.io/blog/categories/iron/atom.xml" rel="self"/>
+  <link href="http://gtlaserbeast.github.io/"/>
+  <updated>2014-10-27T12:31:29-04:00</updated>
+  <id>http://gtlaserbeast.github.io/</id>
+  <author>
+    <name><![CDATA[Will C. Fisher, Jr.]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Freelancing Job!]]></title>
+    <link href="http://gtlaserbeast.github.io/blog/2014/10/27/first-freelancing-job/"/>
+    <updated>2014-10-27T12:21:34-04:00</updated>
+    <id>http://gtlaserbeast.github.io/blog/2014/10/27/first-freelancing-job</id>
+    <content type="html"><![CDATA[<p>I am extremely excited to begin working on a project for my friend, Eric Daubert. Eric is a multitalented musician who brings an engaging stage presence <!--more-->and virtuosic merry-making to your favorite watering hole.</p>
+
+<p>My plans for his site include:</p>
+
+<ul>
+<li>Sinatra server</li>
+<li>Google Calendar sync (ensuring pain-free updates)</li>
+<li>Twitter Stream (Still need to register Eric)</li>
+<li>Collection of Links to friends/colleagues</li>
+<li>Gallery of work</li>
+<li>Mailing List</li>
+</ul>
+
+
+<p>Hopefully, we&rsquo;ll be up and running by the end of the week.</p>
+]]></content>
+  </entry>
+  
+</feed>
